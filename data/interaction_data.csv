@@ -1,0 +1,25 @@
+﻿ARTICLE_ID;APP_ID;DERIVED_TSTAMP;GEO_COUNTRY;GEO_ZIPCODE;REFR_URLHOST;QUASI_USER_ID;IS_LOGGED_IN;dt_hour;dt_weekday;dt_dayofmonth;dt_month;SE_LABEL;SE_ACTION
+6221051;nu.web;01/09/2022 20:15;NL;7071;3;6cfbc147ff75fafd27f0ff0c507ef326;1;18;3;1;9;new_reaction;post_reaction
+6221091;nu.ios;01/09/2022 07:44;NL;1031;5;735d4a9f97ba8a359098338320aa8164;0;5;3;1;9;new_reaction;post_reaction
+6221108;nu.ios;31/08/2022 20:11;NL;3033;5;bbf534b9b2be63b5dc581c8ff9993e6e;0;18;2;31;8;new_reaction;post_reaction
+6221144;nu.ios;01/09/2022 07:25;NL;1186;5;a2f6212712e17df13778e86841261ade;0;5;3;1;9;new_reaction;post_reaction
+6221157;nu.android;01/09/2022 08:26;NL;3071;5;da0952157ee6cb342db35338d2288309;0;6;3;1;9;new_reaction;post_reaction
+6221319;nu.android;01/09/2022 17:05;NL;1946;5;9066ec011aa98bc41a52a429aa5e0c60;0;15;3;1;9;new_reaction;post_reaction
+6221352;nu.ios;02/09/2022 00:06;NL;9114;5;1b92cdb6e8392b666af9c580d4dc2935;0;22;3;1;9;comment_on_reaction;twitter
+6221408;nu.web;02/09/2022 08:29;NL;3526;1;def22936aba21f1fcb3b6f5cc5b2d9e6;1;6;4;2;9;comment_on_reaction;twitter
+6221408;nu.ios;02/09/2022 10:44;NL;1216;5;5eacaf43c503e01141adbb589a5c193d;0;8;4;2;9;bottom;twitter
+6221420;nu.android;02/09/2022 09:21;NL;3959;5;309ae9d6073ce0b0134c86ca2507698e;0;7;4;2;9;bottom;twitter
+6221513;nu.android;02/09/2022 14:38;NL;2132;5;75bd1caee5fd9331f112fccd75de1634;0;12;4;2;9;bottom;twitter
+6221527;nu.web;05/09/2022 09:58;NL;3056;1;83047b10f6613a0b32e8a8141fead543;0;7;0;5;9;bottom;twitter
+6221575;nu.android;05/09/2022 21:54;NL;2513;5;e31ac23ca5a973d66fa713f8b6d6938b;0;19;0;5;9;bottom;twitter
+6221632;nu.web;03/09/2022 22:29;GR;;1;62b84df1d9d03823d7456c715cd79b92;1;20;5;3;9;bottom;twitter
+6221650;nu.android;03/09/2022 01:53;ES;3015;5;5ca2ac94fb5918645a2b3eb386d15824;0;23;4;2;9;bottom;twitter
+6221652;nu.ios;03/09/2022 08:49;NL;9403;5;0319480f035fcf216149dd68cfa7fb10;0;6;5;3;9;top;email
+6221699;nu.web;06/09/2022 16:44;NL;9104;1;08f41051f4a4c7b2f3fa728176536b04;1;14;1;6;9;top;facebook
+6221703;nu.web;03/09/2022 19:23;NL;2131;3;4e66c57b61aa18b7e45e8fa743ef985c;0;17;5;3;9;comment_on_reaction;linkedin
+6221742;nu.web;03/09/2022 16:48;NL;2021;1;13b3a9adbd5244105a270d4d56a46b3a;1;14;5;3;9;comment_on_reaction;whatsapp
+6221753;nu.web;04/09/2022 00:22;NL;2513;1;f4e52064fbd141d03c9cf04d317e6e8b;1;22;5;3;9;new_reaction;whatsapp
+6221776;nu.ios;03/09/2022 19:31;NL;1032;5;93ba947a5048dae184389ab632961bc0;0;17;5;3;9;new_reaction;post_reaction
+6221793;nu.web;03/09/2022 21:23;NL;4834;3;c57f1e19b40975729ef94addb065b228;1;19;5;3;9;new_reaction;post_reaction
+6221798;nu.web;04/09/2022 14:40;NL;7101;6;7f07a0800cfb1654d61b7373e44d8568;1;12;6;4;9;new_reaction;post_reaction
+6221816;nu.ios;03/09/2022 23:37;NL;1092;5;1cfb85e7d42fba92ad8d01b05e481253;0;21;5;3;9;new_reaction;post_reaction
